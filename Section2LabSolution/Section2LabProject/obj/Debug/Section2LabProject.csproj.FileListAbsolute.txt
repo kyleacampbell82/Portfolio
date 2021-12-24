@@ -1,0 +1,20 @@
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.exe.config
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.exe
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.pdb
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.AssemblyReference.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.Properties.Resources.resources
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.GenerateResource.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.exe
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.pdb
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.Section2Lab.resources
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.exe.config
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.exe
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\bin\Debug\Section2LabProject.pdb
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.AssemblyReference.cache
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.Section2Lab.resources
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.Properties.Resources.resources
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.GenerateResource.cache
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.exe
+C:\Users\kylea\Desktop\School Work\2021\Done\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Exams\Section2 Lab\Section2 LabSolution\Section2LabSolution\Section2LabProject\obj\Debug\Section2LabProject.pdb
