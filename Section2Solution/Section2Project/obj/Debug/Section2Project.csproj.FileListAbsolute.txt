@@ -1,0 +1,10 @@
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.csproj.AssemblyReference.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.Form1.resources
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.Properties.Resources.resources
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.csproj.GenerateResource.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\bin\Debug\Section2Project.exe.config
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\bin\Debug\Section2Project.exe
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\bin\Debug\Section2Project.pdb
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.exe
+C:\Users\kylea\Desktop\School Work\2021\3rd - Fall\ITD 1253 - Intro to C#\Portfolio\Assignments\Hands-on & Labs\Section 2 - Weeks 4-7\Section2Solution\Section2Project\obj\Debug\Section2Project.pdb
